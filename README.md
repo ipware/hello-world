@@ -1,2 +1,2 @@
 # hello-world
-learn git
+learn git with hello-world guide
